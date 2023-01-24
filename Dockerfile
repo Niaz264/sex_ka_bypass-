@@ -1,1 +1,1 @@
-FROM eaustin6/aws:latest
+FROM eaustin6/lasttryx:latest
