@@ -1,1 +1,1 @@
-FROM eaustin6/lasttryx:latest
+FROM eaustin6/lashfx:latest
